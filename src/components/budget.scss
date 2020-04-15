@@ -1,0 +1,32 @@
+.main {
+  .budget-form {
+    padding: 50px;
+  }
+  .budget-button {
+    padding-top: 20px;
+  }
+  .budget-list {
+    padding: 50px;
+  }
+  .budget-name {
+    font-size: larger;
+    font-weight: 600;
+    padding-left: 20px;
+  }
+  .add-transaction {
+    margin-bottom: 20px;
+  }
+  .edit-link {
+    left: 300px;
+    position: relative;
+  }
+  .delete-link {
+    left: 350px;
+    position: relative;
+  }
+  .loading {
+    position: absolute;
+    left: 45%;
+    top: 50%;
+  }
+}
